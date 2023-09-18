@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bayronlemuel15
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning in coding.
-- 💞️ I’m looking to collaborate on to any groups available.
+- 💞️ I’m looking to collaborate in to any groups available.
 - 📫 How to reach me ... facebook.com/bayron.lemuel15
 
 <!---
